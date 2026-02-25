@@ -1,0 +1,23 @@
+{
+  "title": "Programming: Boolean Operators",
+  "slug": "programming-boolean-operators",
+  "description": "Language-agnostic introduction to boolean operators and how to combine boolean values and expressions.",
+  "authors": [
+    "chris-cooling"
+  ],
+  "tags": [
+    "programming",
+    "pseudocode"
+  ],
+  "duration": 15,
+  "prerequisites": [
+    "programming-booleans",
+    "programming-comparison-operators",
+    "programming-operator-precedence-comparison-boolean"
+  ],
+  "related": [
+    "python-boolean-operators",
+    "programming-if-else-blocks",
+    "programming-operator-precedence-comparison-boolean"
+  ]
+}
