@@ -11,11 +11,11 @@
   ],
   "duration": 3,
   "prerequisites": [
-    "programming-booleans",
-    "programming-comparison-operators"
+    "programming-booleans"
   ],
   "related": [
     "python-boolean-operators",
+    "programming-comparison-operators",
     "programming-if-else-blocks",
     "programming-operator-precedence-comparison-boolean"
   ]
