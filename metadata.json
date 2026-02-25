@@ -11,6 +11,7 @@
   ],
   "duration": 3,
   "prerequisites": [
+    "programming-variables",
     "programming-booleans"
   ],
   "related": [
