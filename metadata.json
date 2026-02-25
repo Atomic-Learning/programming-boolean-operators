@@ -12,8 +12,7 @@
   "duration": 15,
   "prerequisites": [
     "programming-booleans",
-    "programming-comparison-operators",
-    "programming-operator-precedence-comparison-boolean"
+    "programming-comparison-operators"
   ],
   "related": [
     "python-boolean-operators",
